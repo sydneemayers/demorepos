@@ -1,0 +1,2 @@
+﻿$dummy = "string"
+$dummy
